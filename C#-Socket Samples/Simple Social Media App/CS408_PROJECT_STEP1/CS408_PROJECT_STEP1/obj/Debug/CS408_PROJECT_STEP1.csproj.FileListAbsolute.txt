@@ -1,9 +1,0 @@
-C:\Users\furka\OneDrive\Documents\Visual Studio 2015\Projects\CS408_PROJECT_STEP1\CS408_PROJECT_STEP1\bin\Debug\CS408_PROJECT_STEP1.exe.config
-C:\Users\furka\OneDrive\Documents\Visual Studio 2015\Projects\CS408_PROJECT_STEP1\CS408_PROJECT_STEP1\bin\Debug\CS408_PROJECT_STEP1.exe
-C:\Users\furka\OneDrive\Documents\Visual Studio 2015\Projects\CS408_PROJECT_STEP1\CS408_PROJECT_STEP1\bin\Debug\CS408_PROJECT_STEP1.pdb
-C:\Users\furka\OneDrive\Documents\Visual Studio 2015\Projects\CS408_PROJECT_STEP1\CS408_PROJECT_STEP1\obj\Debug\CS408_PROJECT_STEP1.csprojResolveAssemblyReference.cache
-C:\Users\furka\OneDrive\Documents\Visual Studio 2015\Projects\CS408_PROJECT_STEP1\CS408_PROJECT_STEP1\obj\Debug\CS408_PROJECT_STEP1.Form1.resources
-C:\Users\furka\OneDrive\Documents\Visual Studio 2015\Projects\CS408_PROJECT_STEP1\CS408_PROJECT_STEP1\obj\Debug\CS408_PROJECT_STEP1.Properties.Resources.resources
-C:\Users\furka\OneDrive\Documents\Visual Studio 2015\Projects\CS408_PROJECT_STEP1\CS408_PROJECT_STEP1\obj\Debug\CS408_PROJECT_STEP1.csproj.GenerateResource.Cache
-C:\Users\furka\OneDrive\Documents\Visual Studio 2015\Projects\CS408_PROJECT_STEP1\CS408_PROJECT_STEP1\obj\Debug\CS408_PROJECT_STEP1.exe
-C:\Users\furka\OneDrive\Documents\Visual Studio 2015\Projects\CS408_PROJECT_STEP1\CS408_PROJECT_STEP1\obj\Debug\CS408_PROJECT_STEP1.pdb
