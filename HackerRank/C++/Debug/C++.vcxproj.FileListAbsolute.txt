@@ -1,0 +1,2 @@
+C:\Users\furka\Desktop\Projects\HackerRank\C++\Debug\C++.exe
+C:\Users\furka\Desktop\Projects\HackerRank\C++\Debug\C++.pdb
